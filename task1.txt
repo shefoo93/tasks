@@ -1,0 +1,12 @@
+Welcome to the Justice League training program! The Justice
+League is a group of the world's greatest superheroes. They fight
+against evil and protect the Earth. The Hall of Justice is their
+headquarters. It's where they plan missions, train new recruits,
+and keep peace. As a new recruit, you will face a series of tasks
+to test and improve your skills. Each task is guided by a different
+Justice League member. Complete all the tasks to prove you are
+worthy of joining the Hall of Justice and becoming an official
+member of the Justice League. Good luck, hero! You have to solve the problems using cpp programming
+language only
+● Create an account on HackerRank where you can run and
+submit your solutions in the contest environment
